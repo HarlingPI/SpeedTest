@@ -1,0 +1,20 @@
+﻿D:\InstallFolder\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\InstallFolder\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  ConsoleApplication1.cpp
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(38,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(39,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(40,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(41,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(42,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(43,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(44,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(45,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Harling\Desktop\SpeedTest\ConsoleApplication1\ConsoleApplication1.cpp(46,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  6 of 140 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\Harling\Desktop\SpeedTest\bin\x64\Release\ConsoleApplication1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
